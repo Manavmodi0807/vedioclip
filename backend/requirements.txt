@@ -1,0 +1,7 @@
+
+fastapi
+uvicorn[standard]
+python-multipart
+scenedetect[opencv]
+opencv-python-headless
+moviepy<2.0
